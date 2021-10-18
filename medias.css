@@ -1,0 +1,33 @@
+
+@media screen and (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    .group {
+        border: 1px solid transparent;
+        text-align: center;
+    }
+    
+    .instagram-wrapper {
+        width: 90%;
+    }
+    
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+
+    .get-app {
+        text-align: center;
+    }
+}
